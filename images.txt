@@ -1,1 +1,1 @@
-elasticsearch:7.15.2
+elasticsearch:7.15.1
