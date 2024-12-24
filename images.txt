@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.15.2
+redis:2.8.19
