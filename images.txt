@@ -1,1 +1,1 @@
-elasticsearch:2.4.0
+mongo:3.0
