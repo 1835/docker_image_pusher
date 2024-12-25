@@ -1,1 +1,1 @@
-kafka:3.5.2
+apache/kafka:3.5.2
