@@ -1,1 +1,1 @@
-apache/kafka:3.5.2
+nginx:1.24.0
